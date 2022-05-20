@@ -3,7 +3,7 @@
 # Say something: <user input>
 # Say something: <user input>
 # Say something: \end 
-# <user input>. <user input?> user input.
+# <user input>. <user input>? <user input>.
 # 
 def sentence_maker(phrase):
     question = ("who", "what", "when", "where", "why")
